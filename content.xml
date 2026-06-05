@@ -1,0 +1,969 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>flux</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>202606042235276G9NHX</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260604223527EYJ3HX</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>EXPLORANDO EL UNIVERSO</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>flux</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1780630315645</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>5249b9c1-dc43-44bb-8205-94a97805ed5d</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>VIAJE POR EL UNIVERSO</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>VIAJE POR EL UNIVERSO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>VIAJE POR EL UNIVERSO</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780622024136-scn225dmy</odePageId>
+  <odeParentPageId>5249b9c1-dc43-44bb-8205-94a97805ed5d</odeParentPageId>
+  <pageName>UNIDAD1: Nuestro sistema solar</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>UNIDAD1: Nuestro sistema solar</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>UNIDAD1: Nuestro sistema solar</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780622024136-scn225dmy</odePageId>
+      <odeBlockId>block-1780622394094-eslc0cr46</odeBlockId>
+      <blockName>OBJETIVOS</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780622024136-scn225dmy</odePageId>
+          <odeBlockId>block-1780622394094-eslc0cr46</odeBlockId>
+          <odeIdeviceId>idevice-1780622394090-8lwtku7kk</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><br /><strong><em><span style="font-size: 18pt;">Objetivos de la Unidad:</span></em></strong><br /><span style="font-size: 18pt;">1.Identificar los planetas del Sistema Solar.</span><br /><span style="font-size: 18pt;">2.Reconocer las características del Sol y la Luna.</span><br /><span style="font-size: 18pt;">3.Comprender la importancia del Sistema Solar para nuestro planeta.</span></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780622394090-8lwtku7kk","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><br /><strong><em><span style=\"font-size: 18pt;\">Objetivos de la Unidad:</span></em></strong><br /><span style=\"font-size: 18pt;\">1.Identificar los planetas del Sistema Solar.</span><br /><span style=\"font-size: 18pt;\">2.Reconocer las características del Sol y la Luna.</span><br /><span style=\"font-size: 18pt;\">3.Comprender la importancia del Sistema Solar para nuestro planeta.</span></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1780622024136-scn225dmy</odePageId>
+      <odeBlockId>block-1780623892828-n3xayd0vj</odeBlockId>
+      <blockName>INTRODUCCIÓN</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780622024136-scn225dmy</odePageId>
+          <odeBlockId>block-1780623892828-n3xayd0vj</odeBlockId>
+          <odeIdeviceId>idevice-1780623892826-rdb8grltr</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><br /></p>
+<p><span style="font-size: 18pt;">Una noche, Daniela observaba las estrellas desde la ventana de su habitación. Mientras admiraba el cielo, una pequeña nave espacial aterrizó en su jardín. De ella salió un simpático robot llamado Astro, quien la invitó a recorrer el universo. Juntos iniciaron una aventura para descubrir los secretos del espacio, los planetas, las estrellas y los misterios q en el universo se encontraban.</span></p>
+<p><span style="font-size: 18pt;"><img src="{{context_path}}/content/resources/WhatsApp Image 2026-06-04 at 8.52.54 PM.jpeg" width="1280" height="1024" alt="" /></span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780623892826-rdb8grltr","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><br /></p>\n<p><span style=\"font-size: 18pt;\">Una noche, Daniela observaba las estrellas desde la ventana de su habitación. Mientras admiraba el cielo, una pequeña nave espacial aterrizó en su jardín. De ella salió un simpático robot llamado Astro, quien la invitó a recorrer el universo. Juntos iniciaron una aventura para descubrir los secretos del espacio, los planetas, las estrellas y los misterios q en el universo se encontraban.</span></p>\n<p><span style=\"font-size: 18pt;\"><img src=\"{{context_path}}/content/resources/WhatsApp Image 2026-06-04 at 8.52.54 PM.jpeg\" width=\"1280\" height=\"1024\" alt=\"\" /></span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1780622024136-scn225dmy</odePageId>
+      <odeBlockId>block-1780625329915-xxjpw7mle</odeBlockId>
+      <blockName>mira este video</blockName>
+      <iconName>guide</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780622024136-scn225dmy</odePageId>
+          <odeBlockId>block-1780625329915-xxjpw7mle</odeBlockId>
+          <odeIdeviceId>idevice-1780625329914-c8onckvya</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><video width="560" height="315" controls="controls">
+<source src="{{context_path}}/content/resources/WhatsApp Video 2026-06-04 at 9.03.28 PM.mp4" type="video/mp4" /></video></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780625329914-c8onckvya","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><video width=\"560\" height=\"315\" controls=\"controls\">\n<source src=\"{{context_path}}/content/resources/WhatsApp Video 2026-06-04 at 9.03.28 PM.mp4\" type=\"video/mp4\" /></video></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780622047464-uod6mjhjq</odePageId>
+  <odeParentPageId>page-1780622024136-scn225dmy</odeParentPageId>
+  <pageName>Sesión 1: Los planetas</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 1: Los planetas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Sesión 1: Los planetas</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780622047464-uod6mjhjq</odePageId>
+      <odeBlockId>block-1780623396295-484f69p92</odeBlockId>
+      <blockName>LEE ATENTAMENTE Y PON MUCHA ATENCIÓN</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780622047464-uod6mjhjq</odePageId>
+          <odeBlockId>block-1780623396295-484f69p92</odeBlockId>
+          <odeIdeviceId>idevice-1780623396292-6gibvt83a</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span style="font-size: 18pt;">La nave de Astro llegó primero a Mercurio, el planeta más cercano al Sol. Allí hacía muchísimo calor durante el día. Después visitaron Venus, cubierto por densas nubes. Cuando llegaron a la Tierra, Sofía sonrió al reconocer su hogar. Más adelante observaron Marte, conocido como el planeta rojo. Luego aparecieron los gigantes Júpiter y Saturno, seguidos por Urano y Neptuno, los planetas más lejanos. Cada uno tenía características únicas que hacían del Sistema Solar un lugar fascinante.<video width="560" height="315" controls="controls">
+<source src="{{context_path}}/content/resources/Grabación de pantalla 2026-06-04 213059.mp4" type="video/mp4" /></video></span></p>
+<p><span style="font-size: 18pt;"></span><br /></p>
+<p><span style="font-size: 18pt;"></span><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780623396292-6gibvt83a","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span style=\"font-size: 18pt;\">La nave de Astro llegó primero a Mercurio, el planeta más cercano al Sol. Allí hacía muchísimo calor durante el día. Después visitaron Venus, cubierto por densas nubes. Cuando llegaron a la Tierra, Sofía sonrió al reconocer su hogar. Más adelante observaron Marte, conocido como el planeta rojo. Luego aparecieron los gigantes Júpiter y Saturno, seguidos por Urano y Neptuno, los planetas más lejanos. Cada uno tenía características únicas que hacían del Sistema Solar un lugar fascinante.<video width=\"560\" height=\"315\" controls=\"controls\">\n<source src=\"{{context_path}}/content/resources/Grabación de pantalla 2026-06-04 213059.mp4\" type=\"video/mp4\" /></video></span></p>\n<p><span style=\"font-size: 18pt;\"></span><br /></p>\n<p><span style=\"font-size: 18pt;\"></span><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1780622047464-uod6mjhjq</odePageId>
+      <odeBlockId>block-1780625926742-0guukjv6k</odeBlockId>
+      <blockName>Completa</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780622047464-uod6mjhjq</odePageId>
+          <odeBlockId>block-1780625926742-0guukjv6k</odeBlockId>
+          <odeIdeviceId>idevice-1780625926741-3c1mj1ega</odeIdeviceId>
+          <odeIdeviceTypeName>complete</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="completa-IDevice"><div class="game-evaluation-ids js-hidden" data-id="idevice-1780625926741-3c1mj1ega" data-evaluationb="true" data-evaluationid="0587d9db-dca9-4de0-bb40-c00cb86f8146"></div><div class="completa-feedback-game"></div><div class="completa-instructions"><p>Lee el texto y completa las palabras que faltan.</p></div><div class="completa-DataGame js-hidden">%E9%B0%E6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%D1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FB%FC%E1%E6%E0%E7%F1%E6%FB%FD%FC%E1%B0%A8%B0%AE%E2%AC%DE%F7%F7%B2%F7%FE%B2%E6%F7%EA%E6%FD%B2%EB%B2%F1%FD%FF%E2%FE%F7%E6%F3%B2%FE%F3%E1%B2%E2%F3%FE%F3%F0%E0%F3%E1%B2%E3%E7%F7%B2%F4%F3%FE%E6%F3%FC%BC%AE%BD%E2%AC%B0%BE%B0%E6%F7%EA%E6%C6%F7%EA%E6%B0%A8%B0%B7%A1%D1%E2%B7%A1%D7%B7%A1%D1%F7%FF%B7%A1%D7%B7%A1%D1%E1%E6%E0%FD%FC%F5%B7%A1%D7%D3%CB%C7%D6%D3%B7%A0%A2%D3%B7%A0%A2%D6%D3%DC%DB%D7%DE%D3%B7%A0%A2%D3%B7%A0%A2%D1%DD%DF%C2%DE%D7%C6%D3%C0%B7%A0%A2%C1%C7%B7%A0%A2%D6%DB%D3%C0%DB%DD%B7%A0%A2%D6%D7%B7%A0%A2%C4%DB%D3%D8%D7%B7%D3%A2%B7%A1%D1%BD%E1%E6%E0%FD%FC%F5%B7%A1%D7%B7%A1%D1%BD%F7%FF%B7%A1%D7%B7%A1%D1%BD%E2%B7%A1%D7%B7%A2%D3%B7%A1%D1%E2%B7%A1%D7%DA%FD%EB%B7%A0%A2%E4%FB%E1%FB%E6%F3%FF%FD%E1%B7%A0%A2%F7%FE%B7%A0%A2%E2%FE%F3%FC%F7%E6%F3%B7%A0%A2%D2%D2%FF%F3%E0%E6%F7%D2%D2%B7%A0%A2%F1%FD%FC%FD%F1%FB%F6%FD%B7%A0%A2%F1%FD%FF%FD%B7%A0%A2%F7%FE%B7%A0%A2%E2%FE%F3%FC%F7%E6%F3%B7%A0%A2%E0%FD%F8%FD%BC%B7%A1%D1%BD%E2%B7%A1%D7%B0%BE%B0%E1%FA%FD%E5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%FB%E6%FB%FC%F7%E0%F3%E0%EB%B0%A8%E9%B0%E1%FA%FD%E5%D1%FE%E7%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FE%E7%F7%D5%F3%FF%F7%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%D1%FE%E7%F7%B0%A8%A6%A2%BE%B0%E1%FA%FD%E5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%BE%B0%FF%F7%E1%E1%F3%F5%F7%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%EF%BE%B0%F1%F3%E1%F7%C1%F7%FC%E1%FB%E6%FB%E4%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%FB%E1%C1%F1%FD%E0%FF%B0%A8%A2%BE%B0%E6%F7%EA%E6%D0%E7%E6%E6%FD%FC%C1%F1%FD%E0%FF%B0%A8%B0%D5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%E0%F7%E2%F7%F3%E6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%E6%E0%E7%F7%BE%B0%E5%F7%FB%F5%FA%E6%F7%F6%B0%A8%A3%A2%A2%BE%B0%E6%F7%EA%E6%D4%F7%F7%F6%D0%F3%F1%F9%B0%A8%B0%B0%BE%B0%E6%F7%EA%E6%D3%F4%E6%F7%E0%B0%A8%B0%B0%BE%B0%F4%F7%F7%F6%D0%F3%F1%F9%B0%A8%F4%F3%FE%E1%F7%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F8%F7%D4%D0%B0%A8%A3%A2%A2%BE%B0%E4%F7%E0%E1%FB%FD%FC%B0%A8%A3%BE%B0%F7%E1%E6%E0%FB%F1%E6%D1%FA%F7%F1%F9%B0%A8%F4%F3%FE%E1%F7%BE%B0%E5%FD%E0%F6%E1%C1%FB%E8%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%E6%FB%FF%F7%B0%A8%A1%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%E5%FD%E0%F6%E1%D7%E0%E0%FD%E0%E1%B0%A8%B0%B0%BE%B0%F3%E6%E6%F7%FF%E2%E1%DC%E7%FF%F0%F7%E0%B0%A8%A0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F8%F7%D7%E0%E0%FD%E0%B0%A8%A7%BE%B0%E1%FA%FD%E5%C1%FD%FE%E7%E6%FB%FD%FC%B0%A8%F4%F3%FE%E1%F7%BE%B0%E5%FD%E0%F6%E1%DE%FB%FF%FB%E6%B0%A8%F4%F3%FE%E1%F7%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%B0%A8%E6%E0%E7%F7%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%DB%D6%B0%A8%B0%A2%A7%AA%A5%F6%AB%F6%F0%BF%F6%F1%F3%AB%BF%A6%F6%F7%A2%BF%F0%F0%A6%A2%BF%F1%A2%A2%F1%F0%AA%A4%F4%AA%A3%A6%A4%B0%BE%B0%FA%F3%E1%D0%F3%F1%F9%B0%A8%E6%E0%E7%F7%BE%B0%E7%E0%FE%D0%F3%F1%F9%B0%A8%B0%F0%FE%FD%F0%A8%FA%E6%E6%E2%E1%A8%BD%BD%FD%FC%FE%FB%FC%F7%BC%F7%EA%F7%FE%F7%F3%E0%FC%FB%FC%F5%BC%FC%F7%E6%BD%A5%F6%AA%F6%A6%A3%A1%AB%BF%A5%F1%A2%A0%BF%A6%AA%F0%A7%BF%F0%F6%AA%F1%BF%F7%A3%AB%F3%AA%AA%A1%AA%F6%A3%A7%F3%B0%BE%B0%F3%E7%E6%FA%FD%E0%D0%F3%F1%F9%DB%FF%F3%F5%F7%B0%A8%B0%B0%BE%B0%F4%FD%FC%E6%D1%FD%FE%FD%E0%B0%A8%B0%B1%A2%A2%A2%A2%A2%A2%B0%BE%B0%FB%F6%B0%A8%B0%FB%F6%F7%E4%FB%F1%F7%BF%A3%A5%AA%A2%A4%A0%A7%AB%A0%A4%A5%A6%A3%BF%A1%F1%A3%FF%F8%A3%F7%F5%F3%B0%BE%B0%FF%E1%F5%E1%B0%A8%E9%B0%FF%E1%F5%C0%F7%E2%FE%EB%B0%A8%B0%C0%F7%E1%E2%FD%FC%F6%F7%E0%B0%BE%B0%FF%E1%F5%D7%FC%E6%F7%E0%D1%FD%F6%F7%B0%A8%B0%DB%FC%E6%E0%FD%F6%E7%F1%F7%B2%F7%FE%B2%F1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%D1%FD%F6%F7%B0%A8%B0%D7%FE%B2%F1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B2%FC%FD%B2%F7%E1%B2%F1%FD%E0%E0%F7%F1%E6%FD%B0%BE%B0%FF%E1%F5%D5%F3%FF%F7%DD%E4%F7%E0%B0%A8%B03%D4%FB%FC%B2%F6%F7%B2%FE%F3%B2%E2%F3%E0%E6%FB%F6%F3%B3%B0%BE%B0%FF%E1%F5%D1%FE%E7%F7%B0%A8%B03%D5%F7%FC%FB%F3%FE%B3%B2%DE%F3%B2%E2%FB%E1%E6%F3%B2%F7%E1%A8%B0%BE%B0%FF%E1%F5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%D1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%E6%F3%E0%E6%B0%A8%B0%C2%E7%FE%E1%F3%B2%F3%E3%E7%7F%B2%E2%F3%E0%F3%B2%F8%E7%F5%F3%E0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%E1%B0%A8%B0%D7%E0%E0%FD%E0%F7%E1%B0%BE%B0%FF%E1%F5%DA%FB%E6%E1%B0%A8%B0%D3%F1%FB%F7%E0%E6%FD%E1%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%C5%F7%FB%F5%FA%E6%B0%A8%B0%C2%F7%E1%FD%B0%BE%B0%FF%E1%F5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%B0%DF%FB%FC%FB%FF%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%DF%F3%EA%FB%FF%FB%E8%F7%B0%A8%B0%DF%F3%EA%FB%FF%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%C6%FB%FF%F7%B0%A8%B0%DE%7F%FF%FB%E6%F7%B2%F6%F7%B2%E6%FB%F7%FF%E2%FD%B2%BA%FF%FF%A8%E1%E1%BB%B0%BE%B0%FF%E1%F5%DE%FB%E4%F7%B0%A8%B0%C4%FB%F6%F3%B0%BE%B0%FF%E1%F5%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%C2%F3%FC%E6%F3%FE%FE%F3%B2%D1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FF%E1%F5%D7%EA%FB%E6%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%C1%F3%FE%FB%E0%B2%F6%F7%FE%B2%FF%FD%F6%FD%B2%E2%F3%FC%E6%F3%FE%FE%F3%B2%F1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FF%E1%F5%DC%E7%FF%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%B0%DCh%FF%F7%E0%FD%B2%F6%F7%B2%E2%E0%F7%F5%E7%FC%E6%F3%E1%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F7%E1%B0%A8%B03%D1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%D7%EA%F1%F7%FE%F7%FC%E6%F7%B3%B2%EE%B23%D5%F7%FC%FB%F3%FE%B3%B2%EE%B23%DF%E7%EB%B2%F0%FB%F7%FC%B3%B2%EE%B23%C2%F7%E0%F4%F7%F1%E6%FD%B3%B0%BE%B0%FF%E1%F5%D4%F3%FB%FE%E7%E0%F7%E1%B0%A8%B03%DC%FD%B2%F7%E0%F3%B2%F7%E1%FD%B3%B2%EE%B23%DB%FC%F1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%DC%FD%B2%F7%E1%B2%F1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%DE%FD%B2%E1%F7%FC%E6%FB%FF%FD%E1%B3%B2%EE%B23%D7%E0%E0%FD%E0%B3%B0%BE%B0%FF%E1%F5%C6%E0%EB%D3%F5%F3%FB%FC%B0%A8%B0%DC%F7%F1%F7%E1%FB%E6%F3%E1%B2%F3%FE%B2%FF%F7%FC%FD%E1%B2%B7%E1%B7%B2%F6%F7%B2%E0%F7%E1%E2%E7%F7%E1%E6%F3%E1%B2%F1%FD%E0%E0%F7%F1%E6%F3%E1%B2%E2%F3%E0%F3%B2%FD%F0%E6%F7%FC%F7%E0%B2%FE%F3%B2%FB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%BC%B2%DB%FC%E6%7B%FC%E6%F3%FE%FD%B2%F6%F7%B2%FC%E7%F7%E4%FD%BC%B0%BE%B0%FF%E1%F5%D7%FC%F6%D5%F3%FF%F7%C1%F1%FD%E0%F7%B0%A8%B0%D1%FD%FF%FB%F7%FC%F1%F7%B2%FE%F3%B2%E2%F3%E0%E6%FB%F6%F3%B2%F3%FC%E6%F7%E1%B2%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%BC%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%C1%F1%FD%E0%FF%B0%A8%B0%DE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%FC%FD%B2%E1%F7%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%E2%FD%E0%E3%E7%F7%B2%F7%E1%E6%F3%B2%E2s%F5%FB%FC%F3%B2%FC%FD%B2%F4%FD%E0%FF%F3%B2%E2%F3%E0%E6%F7%B2%B2%F6%F7%B2%E7%FC%B2%E2%F3%E3%E7%F7%E6%F7%B2%C1%D1%DD%C0%DF%BC%B0%BE%B0%FF%E1%F5%D3%FC%E1%E5%F7%E0%B0%A8%B0%C0%F7%E1%E2%FD%FC%F6%F7%E0%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%C1%F1%FD%E0%F7%B0%A8%B03%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E7%FC%F3%B2%E4%F7%E8%B3%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%B0%A8%B0%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%E7%FC%F3%B2%E4%F7%E8%B0%BE%B0%FF%E1%F5%DB%FC%F4%FD%E0%FF%F3%E6%FB%FD%FC%B0%A8%B0%DB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%CB%FD%E7%C1%F1%FD%E0%F7%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%D3%E7%E6%FA%FD%E0%B0%A8%B0%D3%E7%E6%FD%E0%7F%F3%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F6%F7%E1%E2%E7%7B%E1%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%BC%B2%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F8%E7%F5%F3%E0%B2%E7%FC%F3%B2%E4%F7%E8%BC%B0%BE%B0%FF%E1%F5%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F3%E7%E6%FD%FFs%E6%FB%F1%F3%FF%F7%FC%E6%F7%B2%F6%F7%E1%E2%E7%7B%E1%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%BC%B0%BE%B0%FF%E1%F5%C1%F7%E4%F7%E0%F3%FE%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E6%F3%FC%E6%F3%E1%B2%E4%F7%F1%F7%E1%B2%F1%FD%FF%FD%B2%E3%E7%FB%F7%E0%F3%B0%BE%B0%FF%E1%F5%CB%FD%E7%DE%F3%E1%E6%C1%F1%FD%E0%F7%B0%A8%B0%DE%F3%B2h%FE%E6%FB%FF%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%F5%E7%F3%E0%F6%F3%F6%F3%B2%F7%E1%B0%BE%B0%FF%E1%F5%D3%F1%E6%FB%E6%EB%D1%FD%FF%E2%FE%EB%B0%A8%B0%CB%F3%B2%FA%F3%B2%E0%F7%F3%FE%FB%E8%F3%F6%FD%B2%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%BC%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%F7%E4%F7%E0%F3%FE%C6%FB%FF%F7%E1%B0%A8%B0%C2%E7%F7%F6%F7%B2%E0%F7%F3%FE%FB%E8%F3%E0%B2%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%B2%F1%E7%F3%FC%E6%F3%E1%B2%E4%F7%F1%F7%E1%B2%E3%E7%FB%F7%E0%F3%B0%BE%B0%FF%E1%F5%D1%FE%FD%E1%F7%B0%A8%B0%D1%F7%E0%E0%F3%E0%B0%BE%B0%FF%E1%F5%C1%FD%FE%E7%E6%FB%FD%FC%B0%A8%B0%C1%FD%FE%E7%F1%FBa%FC%B0%BE%B0%FF%E1%F5%C6%E0%EB%B0%A8%B03%C2%E0%E7%F7%F0%F3%B2%FD%E6%E0%F3%B2%E4%F7%E8%B3%B0%BE%B0%FF%E1%F5%D1%FA%F7%F1%F9%B0%A8%B0%D1%FD%FF%E2%E0%FD%F0%F3%E0%B0%BE%B0%FF%E1%F5%D7%FC%F6%C1%F1%FD%E0%F7%B0%A8%B0%DA%F3%E1%B2%E6%F7%FC%FB%F6%FD%B2%B7%E1%B2%F3%F1%FB%F7%E0%E6%FD%E1%B2%EB%B2%B7%F6%B2%F7%E0%E0%FD%E0%F7%E1%BC%B0%BE%B0%FF%E1%F5%D7%FC%F6%C6%FB%FF%F7%B0%A8%B0%D7%FE%B2%E6%FB%F7%FF%E2%FD%B2%FA%F3%B2%F4%FB%FC%F3%FE%FB%E8%F3%F6%FD%BC%B0%BE%B0%FF%E1%F5%D5%F3%FF%F7%D7%FC%F6%B0%A8%B0%DA%F3%E1%B2%F1%FD%FF%E2%FE%F7%E6%F3%F6%FD%B2%FE%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%B0%BE%B0%FF%E1%F5%C7%FC%F1%FD%FF%E2%FE%F7%E6%F7%F6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%FC%FD%B2%F1%FD%FF%E2%FE%F7%E6%F3%F6%F3%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%E1%E7%E2%F7%E0%F3%F6%F3%BC%B2%C2%E7%FC%E6%E7%F3%F1%FBa%FC%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%C7%FC%E1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%FC%FD%B2%E1%E7%E2%F7%E0%F3%F6%F3%BC%B2%C2%E7%FC%E6%E7%F3%F1%FBa%FC%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%C6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%D1%FD%FF%E2%FE%F7%E6%F3%B0%EF%EF</div><div class="completa-text-game js-hidden"><p><em><strong>AYUDA A DANIELA A COMPLETAR SU DIARIO DE VIAJE </strong></em></p>
+<p>Hoy visitamos el planeta @@marte@@ conocido como el planeta rojo.</p></div><a href="{{context_path}}/content/resources/WhatsApp Image 2026-06-04 at 8.28.17 PM.jpeg" class="js-hidden completa-LinkBack" alt="Back" />Background</a><div class="cmpt-bns js-hidden">Su navegador no es compatible con esta herramienta.</div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1780622047464-uod6mjhjq</odePageId>
+      <odeBlockId>block-1780626131134-glpcvpabl</odeBlockId>
+      <blockName>organiza los planetas</blockName>
+      <iconName>interactive</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780622047464-uod6mjhjq</odePageId>
+          <odeBlockId>block-1780626131134-glpcvpabl</odeBlockId>
+          <odeIdeviceId>idevice-1780626131133-7hbk35bl0</odeIdeviceId>
+          <odeIdeviceTypeName>puzzle</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="puzzle-IDevice"><div class="game-evaluation-ids js-hidden" data-id="idevice-1780626131133-7hbk35bl0" data-evaluationb="false" data-evaluationid="0587d9db-dca9-4de0-bb40-c00cb86f8146"></div><div class="puzzle-feedback-game"></div><div class="puzzle-instructions"><p>Resuelve los siguientes puzles.</p></div><div class="puzzle-DataGame js-hidden">%E9%B0%E6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%C2%E7%E8%E8%FE%F7%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%FB%FC%E1%E6%E0%E7%F1%E6%FB%FD%FC%E1%B0%A8%B0%AE%E2%AC%C0%F7%E1%E7%F7%FE%E4%F7%B2%FE%FD%E1%B2%E1%FB%F5%E7%FB%F7%FC%E6%F7%E1%B2%E2%E7%E8%FE%F7%E1%BC%AE%BD%E2%AC%B0%BE%B0%E0%F3%FC%F6%FD%FF%C2%E7%E8%E8%FE%F7%E1%B0%A8%F4%F3%FE%E1%F7%BE%B0%E1%FA%FD%E5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%FB%E6%FB%FC%F7%E0%F3%E0%EB%B0%A8%E9%B0%E1%FA%FD%E5%D1%FE%E7%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FE%E7%F7%D5%F3%FF%F7%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%D1%FE%E7%F7%B0%A8%A6%A2%BE%B0%E1%FA%FD%E5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%BE%B0%FF%F7%E1%E1%F3%F5%F7%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%EF%BE%B0%E2%E7%E8%E8%FE%F7%E1%D5%F3%FF%F7%B0%A8%C9%E9%B0%E6%EB%E2%F7%B0%A8%A3%BE%B0%E0%FD%E5%E1%B0%A8%A1%BE%B0%F1%FD%FE%E7%FF%FC%E1%B0%A8%A1%BE%B0%E1%FA%FD%E5%DB%FF%F3%F5%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%E1%FA%FD%E5%DC%E7%FF%F0%F7%E0%B0%A8%F4%F3%FE%E1%F7%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%FD%E0%F5%F3%FC%FB%E8%F3%B2%FE%F3%B2%FB%FF%F3%F5%F7%FC%B2%F1%FD%E0%E0%F7%F1%E6%F3%FF%F7%FC%E6%F7%B0%BE%B0%F3%E7%F6%FB%FD%D6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%D1%FE%E7%F7%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%F0%FE%FD%F0%A8%FA%E6%E6%E2%E1%A8%BD%BD%FD%FC%FE%FB%FC%F7%BC%F7%EA%F7%FE%F7%F3%E0%FC%FB%FC%F5%BC%FC%F7%E6%BD%F3%A3%F6%A3%A4%F3%A0%A0%BF%A0%A0%F7%AA%BF%A6%A0%A1%F1%BF%AA%F7%A7%F7%BF%AA%A7%A7%A2%F3%F1%F3%A3%A7%A1%F1%F3%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F1%FE%E7%F7%B0%A8%B0%B0%BE%B0%E1%FA%FD%E5%C6%FB%FF%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%E1%FA%FD%E5%D3%E6%E6%F7%FF%E2%E1%B0%A8%F4%F3%FE%E1%F7%EF%CF%BE%B0%FB%E1%C1%F1%FD%E0%FF%B0%A8%A2%BE%B0%E6%F7%EA%E6%D0%E7%E6%E6%FD%FC%C1%F1%FD%E0%FF%B0%A8%B0%D5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%E0%F7%E2%F7%F3%E6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%E6%E0%E7%F7%BE%B0%E5%F7%FB%F5%FA%E6%F7%F6%B0%A8%A3%A2%A2%BE%B0%E6%F7%EA%E6%D4%F7%F7%F6%D0%F3%F1%F9%B0%A8%B0%B0%BE%B0%E6%F7%EA%E6%D3%F4%E6%F7%E0%B0%A8%B0%B0%BE%B0%F4%F7%F7%F6%D0%F3%F1%F9%B0%A8%F4%F3%FE%E1%F7%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F8%F7%D4%D0%B0%A8%A3%A2%A2%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F8%F7%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%A3%A2%A2%BE%B0%E4%F7%E0%E1%FB%FD%FC%B0%A8%A3%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%B0%A8%F4%F3%FE%E1%F7%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%DB%D6%B0%A8%B0%A2%A7%AA%A5%F6%AB%F6%F0%BF%F6%F1%F3%AB%BF%A6%F6%F7%A2%BF%F0%F0%A6%A2%BF%F1%A2%A2%F1%F0%AA%A4%F4%AA%A3%A6%A4%B0%BE%B0%FB%F6%B0%A8%B0%FB%F6%F7%E4%FB%F1%F7%BF%A3%A5%AA%A2%A4%A0%A4%A3%A1%A3%A3%A1%A1%BF%A5%FA%F0%F9%A1%A7%F0%FE%A2%B0%BE%B0%FF%E1%F5%E1%B0%A8%E9%B0%FF%E1%F5%C1%E7%F0%FF%FB%E6%B0%A8%B0%D7%FC%E4%FB%F3%E0%B0%BE%B0%FF%E1%F5%D1%FE%E7%F7%B0%A8%B03%D5%F7%FC%FB%F3%FE%B3%B2%DE%F3%B2%E2%FB%E1%E6%F3%B2%F7%E1%A8%B0%BE%B0%FF%E1%F5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%D1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%D3%F5%F3%FB%FC%B0%A8%B0%D8%E7%F5%F3%E0%B2%FD%E6%E0%F3%B2%E4%F7%E8%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%E6%F3%E0%E6%B0%A8%B0%C2%E7%FE%E1%F3%B2%F3%E3%E7%7F%B2%E2%F3%E0%F3%B2%F8%E7%F5%F3%E0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%E1%B0%A8%B0%D7%E0%E0%FD%E0%F7%E1%B0%BE%B0%FF%E1%F5%DA%FB%E6%E1%B0%A8%B0%D3%F1%FB%F7%E0%E6%FD%E1%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%C5%F7%FB%F5%FA%E6%B0%A8%B0%C2%F7%E1%FD%B0%BE%B0%FF%E1%F5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%B0%DF%FB%FC%FB%FF%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%DF%F3%EA%FB%FF%FB%E8%F7%B0%A8%B0%DF%F3%EA%FB%FF%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%C2%F3%FC%E6%F3%FE%FE%F3%B2%D1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FF%E1%F5%D7%EA%FB%E6%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%C1%F3%FE%FB%E0%B2%F6%F7%FE%B2%FF%FD%F6%FD%B2%E2%F3%FC%E6%F3%FE%FE%F3%B2%F1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FF%E1%F5%DC%E7%FF%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%B0%DCh%FF%F7%E0%FD%B2%F6%F7%B2%E2%E0%F7%F5%E7%FC%E6%F3%E1%B0%BE%B0%FF%E1%F5%DC%FD%DB%FF%F3%F5%F7%B0%A8%B0%C2%E0%F7%F5%E7%FC%E6%F3%B2%E1%FB%FC%B2%FB%FFs%F5%F7%FC%F7%E1%B0%BE%B0%FF%E1%F5%D1%FD%FD%FE%B0%A8%B03%D0%FB%F7%FC%B3%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F7%E1%B0%A8%B03%D1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%D7%EA%F1%F7%FE%F7%FC%E6%F7%B3%B2%EE%B23%D5%F7%FC%FB%F3%FE%B3%B2%EE%B23%DF%E7%EB%B2%F0%FB%F7%FC%B3%B2%EE%B23%C2%F7%E0%F4%F7%F1%E6%FD%B3%B0%BE%B0%FF%E1%F5%D4%F3%FB%FE%E7%E0%F7%E1%B0%A8%B03%DC%FD%B2%F7%E0%F3%B2%F7%E1%FD%B3%B2%EE%B23%DB%FC%F1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%DC%FD%B2%F7%E1%B2%F1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%DE%FD%B2%E1%F7%FC%E6%FB%FF%FD%E1%B3%B2%EE%B23%D7%E0%E0%FD%E0%B3%B0%BE%B0%FF%E1%F5%C6%E0%EB%D3%F5%F3%FB%FC%B0%A8%B0%DC%F7%F1%F7%E1%FB%E6%F3%E1%B2%F3%FE%B2%FF%F7%FC%FD%E1%B2%B7%E1%B7%B2%F6%F7%B2%E0%F7%E1%E2%E7%F7%E1%E6%F3%E1%B2%F1%FD%E0%E0%F7%F1%E6%F3%E1%B2%E2%F3%E0%F3%B2%FD%F0%E6%F7%FC%F7%E0%B2%FE%F3%B2%FB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%BC%B2%DB%FC%E6%7B%FC%E6%F3%FE%FD%B2%F6%F7%B2%FC%E7%F7%E4%FD%BC%B0%BE%B0%FF%E1%F5%D7%FC%F6%D5%F3%FF%F7%C1%F1%FD%E0%F7%B0%A8%B0%D1%FD%FF%FB%F7%FC%F1%F7%B2%FE%F3%B2%E2%F3%E0%E6%FB%F6%F3%B2%F3%FC%E6%F7%E1%B2%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%BC%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%C1%F1%FD%E0%FF%B0%A8%B0%DE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%FC%FD%B2%E1%F7%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%E2%FD%E0%E3%E7%F7%B2%F7%E1%E6%F3%B2%E2s%F5%FB%FC%F3%B2%FC%FD%B2%F4%FD%E0%FF%F3%B2%E2%F3%E0%E6%F7%B2%B2%F6%F7%B2%E7%FC%B2%E2%F3%E3%E7%F7%E6%F7%B2%C1%D1%DD%C0%DF%BC%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%C1%F1%FD%E0%F7%B0%A8%B03%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E7%FC%F3%B2%E4%F7%E8%B3%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%B0%A8%B0%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%E7%FC%F3%B2%E4%F7%E8%B0%BE%B0%FF%E1%F5%DB%FC%F4%FD%E0%FF%F3%E6%FB%FD%FC%B0%A8%B0%DB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%CB%FD%E7%C1%F1%FD%E0%F7%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%D3%E7%E6%FA%FD%E0%B0%A8%B0%D3%E7%E6%FD%E0%7F%F3%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F6%F7%E1%E2%E7%7B%E1%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%BC%B2%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F8%E7%F5%F3%E0%B2%E7%FC%F3%B2%E4%F7%E8%BC%B0%BE%B0%FF%E1%F5%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F3%E7%E6%FD%FFs%E6%FB%F1%F3%FF%F7%FC%E6%F7%B2%F6%F7%E1%E2%E7%7B%E1%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%BC%B0%BE%B0%FF%E1%F5%C1%F7%E4%F7%E0%F3%FE%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E6%F3%FC%E6%F3%E1%B2%E4%F7%F1%F7%E1%B2%F1%FD%FF%FD%B2%E3%E7%FB%F7%E0%F3%B0%BE%B0%FF%E1%F5%CB%FD%E7%DE%F3%E1%E6%C1%F1%FD%E0%F7%B0%A8%B0%DE%F3%B2h%FE%E6%FB%FF%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%F5%E7%F3%E0%F6%F3%F6%F3%B2%F7%E1%B0%BE%B0%FF%E1%F5%D3%F1%E6%FB%E6%EB%D1%FD%FF%E2%FE%EB%B0%A8%B0%CB%F3%B2%FA%F3%B2%E0%F7%F3%FE%FB%E8%F3%F6%FD%B2%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%BC%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%F7%E4%F7%E0%F3%FE%C6%FB%FF%F7%E1%B0%A8%B0%C2%E7%F7%F6%F7%B2%E0%F7%F3%FE%FB%E8%F3%E0%B2%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%B2%F1%E7%F3%FC%E6%F3%E1%B2%E4%F7%F1%F7%E1%B2%E3%E7%FB%F7%E0%F3%B0%BE%B0%FF%E1%F5%D1%FE%FD%E1%F7%B0%A8%B0%D1%F7%E0%E0%F3%E0%B0%BE%B0%FF%E1%F5%D3%E7%F6%FB%FD%B0%A8%B0%D3%E7%F6%FB%FD%B0%BE%B0%FF%E1%F5%C6%FB%FF%F7%DD%E4%F7%E0%B0%A8%B0%D7%FE%B2%E6%FB%F7%FF%E2%FD%B2%FA%F3%B2%F4%FB%FC%F3%FE%FB%E8%F3%F6%FD%B0%BE%B0%FF%F5%E1%D3%FE%FE%C2%E7%E8%E8%FE%F7%E1%B0%A8%B03%DA%F3%E1%B2%F1%FD%FF%E2%FE%F7%E6%F3%F6%FD%B2%E6%FD%F6%F3%E1%B2%FE%F3%E1%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%F7%E1%B3%B0%BE%B0%FF%E1%F5%DC%E7%FF%F0%F7%E0%E1%D3%E6%E6%F7%FF%E2%E1%B0%A8%B0%DCh%FF%F7%E0%FD%B2%F6%F7%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%F7%E1%B2%E2%F7%FC%F6%FB%F7%FC%E6%F7%E1%B0%BE%B0%FF%E1%F5%D3%F1%E6%FB%E4%FB%E6%FB%F7%E1%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%F7%E1%B0%BE%B0%FF%E1%F5%D1%FD%FC%E6%FB%FC%E7%F7%B0%A8%B0%D1%FD%FC%E6%FB%FC%E7%F3%E0%B0%BE%B0%FF%E1%F5%D3%F5%F3%FB%FC%B0%A8%B0%DB%FC%E6%7B%FC%E6%F3%FE%FD%B2%F6%F7%B2%FC%E7%F7%E4%FD%B0%BE%B0%FF%E1%F5%C7%FC%F1%FD%FF%E2%FE%F7%E6%F7%F6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%FC%FD%B2%F1%FD%FF%E2%FE%F7%E6%F3%F6%F3%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%E1%E7%E2%F7%E0%F3%F6%F3%BC%B2%C2%E7%FC%E6%E7%F3%F1%FBa%FC%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%C7%FC%E1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%FC%FD%B2%E1%E7%E2%F7%E0%F3%F6%F3%BC%B2%C2%E7%FC%E6%E7%F3%F1%FBa%FC%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%C1%FA%FD%E5%DB%FF%F3%F5%F7%B0%A8%B0%DF%FD%E1%E6%E0%F3%E0%BD%DD%F1%E7%FE%E6%F3%E0%B2%FB%FF%F3%F5%F7%FC%B0%BE%B0%FF%E1%F5%C1%FA%FD%E5%DC%E7%FF%F0%F7%E0%E1%B0%A8%B0%DF%FD%E1%E6%E0%F3%E0%BD%DD%F1%E7%FE%E6%F3%E0%B2%FCh%FF%F7%E0%FD%E1%B0%BE%B0%FF%E1%F5%D3%E6%E6%F7%FF%E2%E1%DC%E7%FF%F0%F7%E0%E1%B0%A8%B0%DCh%FF%F7%E0%FD%B2%F6%F7%B2%FB%FC%E6%F7%FC%E6%FD%E1%B0%BE%B0%FF%E1%F5%C6%FB%FF%F7%C2%E7%E8%E8%FE%F7%B0%A8%B0%C6%FB%F7%FF%E2%FD%B2%F7%FF%E2%FE%F7%F3%F6%FD%B0%BE%B0%FF%E1%F5%E1%D1%FD%FF%E2%FE%F7%E6%F7%F6%C2%E7%E8%E8%FE%F7%B0%A8%B0%C2%E7%E8%FE%F7%B2%F1%FD%FF%E2%FE%F7%E6%F3%F6%FD%B0%BE%B0%FF%E1%F5%E1%DC%F7%EA%E6%B0%A8%B0%C1%FB%F5%E7%FB%F7%FC%E6%F7%B0%BE%B0%FF%E1%F5%E1%C0%F7%E2%F7%F3%E6%B0%A8%B0%C0%F7%E2%F7%E6%FB%F1%FBa%FC%B0%BE%B0%FF%E1%F5%E1%C6%F7%E0%FF%FB%FC%F3%E6%F7%B0%A8%B0%D4%FB%FC%F3%FE%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%C6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%C2%E7%E8%FE%F7%B0%EF%EF</div><a href="{{context_path}}/content/resources/WhatsApp Image 2026-06-04 at 9.13.51 PM.jpeg" class="js-hidden puzzle-LinkImagesDef">0</a><div class="puzzle-bns js-hidden">Su navegador no es compatible con esta herramienta.</div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780626469786-8eosb1xp7</odePageId>
+  <odeParentPageId>page-1780622024136-scn225dmy</odeParentPageId>
+  <pageName>Sesión 2: El sol y la Luna</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 2: El sol y la Luna</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780626469786-8eosb1xp7</odePageId>
+      <odeBlockId>block-1780626495171-6ix9ughs4</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780626469786-8eosb1xp7</odePageId>
+          <odeBlockId>block-1780626495171-6ix9ughs4</odeBlockId>
+          <odeIdeviceId>idevice-1780626495169-po2j641ir</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span style="font-size: 18pt;">Después de visitar los planetas, Astro decidió acercarse al Sol. Desde una distancia segura, Sofía observó enormes llamaradas de fuego y comprendió que el Sol era la fuente de energía que permite la vida en la Tierra. Más tarde viajaron hacia la Luna. Allí caminaron sobre una superficie llena de cráteres y observaron la Tierra brillando en el cielo. Sofía quedó maravillada con la belleza de su planeta visto desde el espacio.</span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780626495169-po2j641ir","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span style=\"font-size: 18pt;\">Después de visitar los planetas, Astro decidió acercarse al Sol. Desde una distancia segura, Sofía observó enormes llamaradas de fuego y comprendió que el Sol era la fuente de energía que permite la vida en la Tierra. Más tarde viajaron hacia la Luna. Allí caminaron sobre una superficie llena de cráteres y observaron la Tierra brillando en el cielo. Sofía quedó maravillada con la belleza de su planeta visto desde el espacio.</span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1780626469786-8eosb1xp7</odePageId>
+      <odeBlockId>block-1780626687166-qelbhbyxc</odeBlockId>
+      <blockName>Galería de imágenes</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780626469786-8eosb1xp7</odePageId>
+          <odeBlockId>block-1780626687166-qelbhbyxc</odeBlockId>
+          <odeIdeviceId>idevice-1780626687165-ulgguldoi</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1780626687165-ulgguldoi" title="" href="{{context_path}}/content/resources/WhatsApp Image 2026-06-04 at 9.29.15 PM (1).jpeg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/WhatsApp Image 2026-06-04 at 9.29.15 PM (1).jpeg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_1" class="imageContainer"> <a idevice-id="idevice-1780626687165-ulgguldoi" title="" href="{{context_path}}/content/resources/WhatsApp Image 2026-06-04 at 9.29.15 PM.jpeg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/WhatsApp Image 2026-06-04 at 9.29.15 PM.jpeg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780626687165-ulgguldoi","img_0":{"img":"{{context_path}}/content/resources/WhatsApp Image 2026-06-04 at 9.29.15 PM (1).jpeg","thumbnail":"{{context_path}}/content/resources/WhatsApp Image 2026-06-04 at 9.29.15 PM (1).jpeg","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_1":{"img":"{{context_path}}/content/resources/WhatsApp Image 2026-06-04 at 9.29.15 PM.jpeg","thumbnail":"{{context_path}}/content/resources/WhatsApp Image 2026-06-04 at 9.29.15 PM.jpeg","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1780626469786-8eosb1xp7</odePageId>
+      <odeBlockId>block-1780626848320-n1w3u63a5</odeBlockId>
+      <blockName>Completa</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780626469786-8eosb1xp7</odePageId>
+          <odeBlockId>block-1780626848320-n1w3u63a5</odeBlockId>
+          <odeIdeviceId>idevice-1780626848318-o7t9gwdqb</odeIdeviceId>
+          <odeIdeviceTypeName>complete</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="completa-IDevice"><div class="game-evaluation-ids js-hidden" data-id="idevice-1780626848318-o7t9gwdqb" data-evaluationb="false" data-evaluationid="0587d9db-dca9-4de0-bb40-c00cb86f8146"></div><div class="completa-feedback-game"></div><div class="completa-instructions"><p>Lee el texto y completa las palabras que faltan.</p></div><div class="completa-DataGame js-hidden">%E9%B0%E6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%D1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FB%FC%E1%E6%E0%E7%F1%E6%FB%FD%FC%E1%B0%A8%B0%AE%E2%AC%DE%F7%F7%B2%F7%FE%B2%E6%F7%EA%E6%FD%B2%EB%B2%F1%FD%FF%E2%FE%F7%E6%F3%B2%FE%F3%E1%B2%E2%F3%FE%F3%F0%E0%F3%E1%B2%E3%E7%F7%B2%F4%F3%FE%E6%F3%FC%BC%AE%BD%E2%AC%B0%BE%B0%E6%F7%EA%E6%C6%F7%EA%E6%B0%A8%B0%B7%A1%D1%E2%B7%A1%D7%DE%F3%B7%A0%A2%D2%D2%FE%E7%FC%F3%D2%D2%B7%A0%A2%F7%E1%B7%A0%A2%F7%FE%B7%A0%A2%E1%F3%E6%F7%FE%FB%E6%F7%B7%A0%A2%FC%F3%E6%E7%E0%F3%FE%B7%A0%A2%F6%F7%B7%A0%A2%FE%F3%B7%A0%A2%E6%FB%F7%E0%E0%F3%BC%B7%A1%D1%BD%E2%B7%A1%D7%B0%BE%B0%E1%FA%FD%E5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%FB%E6%FB%FC%F7%E0%F3%E0%EB%B0%A8%E9%B0%E1%FA%FD%E5%D1%FE%E7%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FE%E7%F7%D5%F3%FF%F7%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%D1%FE%E7%F7%B0%A8%A6%A2%BE%B0%E1%FA%FD%E5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%BE%B0%FF%F7%E1%E1%F3%F5%F7%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%EF%BE%B0%F1%F3%E1%F7%C1%F7%FC%E1%FB%E6%FB%E4%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%FB%E1%C1%F1%FD%E0%FF%B0%A8%A2%BE%B0%E6%F7%EA%E6%D0%E7%E6%E6%FD%FC%C1%F1%FD%E0%FF%B0%A8%B0%D5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%E0%F7%E2%F7%F3%E6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%E6%E0%E7%F7%BE%B0%E5%F7%FB%F5%FA%E6%F7%F6%B0%A8%A3%A2%A2%BE%B0%E6%F7%EA%E6%D4%F7%F7%F6%D0%F3%F1%F9%B0%A8%B0%B0%BE%B0%E6%F7%EA%E6%D3%F4%E6%F7%E0%B0%A8%B0%B0%BE%B0%F4%F7%F7%F6%D0%F3%F1%F9%B0%A8%F4%F3%FE%E1%F7%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F8%F7%D4%D0%B0%A8%A3%A2%A2%BE%B0%E4%F7%E0%E1%FB%FD%FC%B0%A8%A3%BE%B0%F7%E1%E6%E0%FB%F1%E6%D1%FA%F7%F1%F9%B0%A8%F4%F3%FE%E1%F7%BE%B0%E5%FD%E0%F6%E1%C1%FB%E8%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%E6%FB%FF%F7%B0%A8%A2%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%E5%FD%E0%F6%E1%D7%E0%E0%FD%E0%E1%B0%A8%B0%B0%BE%B0%F3%E6%E6%F7%FF%E2%E1%DC%E7%FF%F0%F7%E0%B0%A8%A3%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F8%F7%D7%E0%E0%FD%E0%B0%A8%A0%A2%BE%B0%E1%FA%FD%E5%C1%FD%FE%E7%E6%FB%FD%FC%B0%A8%F4%F3%FE%E1%F7%BE%B0%E5%FD%E0%F6%E1%DE%FB%FF%FB%E6%B0%A8%F4%F3%FE%E1%F7%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%B0%A8%F4%F3%FE%E1%F7%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%DB%D6%B0%A8%B0%A2%A7%AA%A5%F6%AB%F6%F0%BF%F6%F1%F3%AB%BF%A6%F6%F7%A2%BF%F0%F0%A6%A2%BF%F1%A2%A2%F1%F0%AA%A4%F4%AA%A3%A6%A4%B0%BE%B0%FA%F3%E1%D0%F3%F1%F9%B0%A8%F4%F3%FE%E1%F7%BE%B0%E7%E0%FE%D0%F3%F1%F9%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%D0%F3%F1%F9%DB%FF%F3%F5%F7%B0%A8%B0%B0%BE%B0%F4%FD%FC%E6%D1%FD%FE%FD%E0%B0%A8%B0%B1%A2%A2%A2%A2%A2%A2%B0%BE%B0%FB%F6%B0%A8%B0%FB%F6%F7%E4%FB%F1%F7%BF%A3%A5%AA%A2%A4%A0%A4%AA%A6%AA%A1%A3%AA%BF%FD%A5%E6%AB%F5%E5%F6%E3%F0%B0%BE%B0%FF%E1%F5%E1%B0%A8%E9%B0%FF%E1%F5%C0%F7%E2%FE%EB%B0%A8%B0%C0%F7%E1%E2%FD%FC%F6%F7%E0%B0%BE%B0%FF%E1%F5%D7%FC%E6%F7%E0%D1%FD%F6%F7%B0%A8%B0%DB%FC%E6%E0%FD%F6%E7%F1%F7%B2%F7%FE%B2%F1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%D1%FD%F6%F7%B0%A8%B0%D7%FE%B2%F1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B2%FC%FD%B2%F7%E1%B2%F1%FD%E0%E0%F7%F1%E6%FD%B0%BE%B0%FF%E1%F5%D5%F3%FF%F7%DD%E4%F7%E0%B0%A8%B03%D4%FB%FC%B2%F6%F7%B2%FE%F3%B2%E2%F3%E0%E6%FB%F6%F3%B3%B0%BE%B0%FF%E1%F5%D1%FE%E7%F7%B0%A8%B03%D5%F7%FC%FB%F3%FE%B3%B2%DE%F3%B2%E2%FB%E1%E6%F3%B2%F7%E1%A8%B0%BE%B0%FF%E1%F5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%D1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%E6%F3%E0%E6%B0%A8%B0%C2%E7%FE%E1%F3%B2%F3%E3%E7%7F%B2%E2%F3%E0%F3%B2%F8%E7%F5%F3%E0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%E1%B0%A8%B0%D7%E0%E0%FD%E0%F7%E1%B0%BE%B0%FF%E1%F5%DA%FB%E6%E1%B0%A8%B0%D3%F1%FB%F7%E0%E6%FD%E1%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%C5%F7%FB%F5%FA%E6%B0%A8%B0%C2%F7%E1%FD%B0%BE%B0%FF%E1%F5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%B0%DF%FB%FC%FB%FF%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%DF%F3%EA%FB%FF%FB%E8%F7%B0%A8%B0%DF%F3%EA%FB%FF%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%C6%FB%FF%F7%B0%A8%B0%DE%7F%FF%FB%E6%F7%B2%F6%F7%B2%E6%FB%F7%FF%E2%FD%B2%BA%FF%FF%A8%E1%E1%BB%B0%BE%B0%FF%E1%F5%DE%FB%E4%F7%B0%A8%B0%C4%FB%F6%F3%B0%BE%B0%FF%E1%F5%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%C2%F3%FC%E6%F3%FE%FE%F3%B2%D1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FF%E1%F5%D7%EA%FB%E6%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%C1%F3%FE%FB%E0%B2%F6%F7%FE%B2%FF%FD%F6%FD%B2%E2%F3%FC%E6%F3%FE%FE%F3%B2%F1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FF%E1%F5%DC%E7%FF%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%B0%DCh%FF%F7%E0%FD%B2%F6%F7%B2%E2%E0%F7%F5%E7%FC%E6%F3%E1%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F7%E1%B0%A8%B03%D1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%D7%EA%F1%F7%FE%F7%FC%E6%F7%B3%B2%EE%B23%D5%F7%FC%FB%F3%FE%B3%B2%EE%B23%DF%E7%EB%B2%F0%FB%F7%FC%B3%B2%EE%B23%C2%F7%E0%F4%F7%F1%E6%FD%B3%B0%BE%B0%FF%E1%F5%D4%F3%FB%FE%E7%E0%F7%E1%B0%A8%B03%DC%FD%B2%F7%E0%F3%B2%F7%E1%FD%B3%B2%EE%B23%DB%FC%F1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%DC%FD%B2%F7%E1%B2%F1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%DE%FD%B2%E1%F7%FC%E6%FB%FF%FD%E1%B3%B2%EE%B23%D7%E0%E0%FD%E0%B3%B0%BE%B0%FF%E1%F5%C6%E0%EB%D3%F5%F3%FB%FC%B0%A8%B0%DC%F7%F1%F7%E1%FB%E6%F3%E1%B2%F3%FE%B2%FF%F7%FC%FD%E1%B2%B7%E1%B7%B2%F6%F7%B2%E0%F7%E1%E2%E7%F7%E1%E6%F3%E1%B2%F1%FD%E0%E0%F7%F1%E6%F3%E1%B2%E2%F3%E0%F3%B2%FD%F0%E6%F7%FC%F7%E0%B2%FE%F3%B2%FB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%BC%B2%DB%FC%E6%7B%FC%E6%F3%FE%FD%B2%F6%F7%B2%FC%E7%F7%E4%FD%BC%B0%BE%B0%FF%E1%F5%D7%FC%F6%D5%F3%FF%F7%C1%F1%FD%E0%F7%B0%A8%B0%D1%FD%FF%FB%F7%FC%F1%F7%B2%FE%F3%B2%E2%F3%E0%E6%FB%F6%F3%B2%F3%FC%E6%F7%E1%B2%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%BC%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%C1%F1%FD%E0%FF%B0%A8%B0%DE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%FC%FD%B2%E1%F7%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%E2%FD%E0%E3%E7%F7%B2%F7%E1%E6%F3%B2%E2s%F5%FB%FC%F3%B2%FC%FD%B2%F4%FD%E0%FF%F3%B2%E2%F3%E0%E6%F7%B2%B2%F6%F7%B2%E7%FC%B2%E2%F3%E3%E7%F7%E6%F7%B2%C1%D1%DD%C0%DF%BC%B0%BE%B0%FF%E1%F5%D3%FC%E1%E5%F7%E0%B0%A8%B0%C0%F7%E1%E2%FD%FC%F6%F7%E0%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%C1%F1%FD%E0%F7%B0%A8%B03%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E7%FC%F3%B2%E4%F7%E8%B3%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%B0%A8%B0%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%E7%FC%F3%B2%E4%F7%E8%B0%BE%B0%FF%E1%F5%DB%FC%F4%FD%E0%FF%F3%E6%FB%FD%FC%B0%A8%B0%DB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%CB%FD%E7%C1%F1%FD%E0%F7%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%D3%E7%E6%FA%FD%E0%B0%A8%B0%D3%E7%E6%FD%E0%7F%F3%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F6%F7%E1%E2%E7%7B%E1%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%BC%B2%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F8%E7%F5%F3%E0%B2%E7%FC%F3%B2%E4%F7%E8%BC%B0%BE%B0%FF%E1%F5%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F3%E7%E6%FD%FFs%E6%FB%F1%F3%FF%F7%FC%E6%F7%B2%F6%F7%E1%E2%E7%7B%E1%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%BC%B0%BE%B0%FF%E1%F5%C1%F7%E4%F7%E0%F3%FE%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E6%F3%FC%E6%F3%E1%B2%E4%F7%F1%F7%E1%B2%F1%FD%FF%FD%B2%E3%E7%FB%F7%E0%F3%B0%BE%B0%FF%E1%F5%CB%FD%E7%DE%F3%E1%E6%C1%F1%FD%E0%F7%B0%A8%B0%DE%F3%B2h%FE%E6%FB%FF%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%F5%E7%F3%E0%F6%F3%F6%F3%B2%F7%E1%B0%BE%B0%FF%E1%F5%D3%F1%E6%FB%E6%EB%D1%FD%FF%E2%FE%EB%B0%A8%B0%CB%F3%B2%FA%F3%B2%E0%F7%F3%FE%FB%E8%F3%F6%FD%B2%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%BC%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%F7%E4%F7%E0%F3%FE%C6%FB%FF%F7%E1%B0%A8%B0%C2%E7%F7%F6%F7%B2%E0%F7%F3%FE%FB%E8%F3%E0%B2%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%B2%F1%E7%F3%FC%E6%F3%E1%B2%E4%F7%F1%F7%E1%B2%E3%E7%FB%F7%E0%F3%B0%BE%B0%FF%E1%F5%D1%FE%FD%E1%F7%B0%A8%B0%D1%F7%E0%E0%F3%E0%B0%BE%B0%FF%E1%F5%C1%FD%FE%E7%E6%FB%FD%FC%B0%A8%B0%C1%FD%FE%E7%F1%FBa%FC%B0%BE%B0%FF%E1%F5%C6%E0%EB%B0%A8%B03%C2%E0%E7%F7%F0%F3%B2%FD%E6%E0%F3%B2%E4%F7%E8%B3%B0%BE%B0%FF%E1%F5%D1%FA%F7%F1%F9%B0%A8%B0%D1%FD%FF%E2%E0%FD%F0%F3%E0%B0%BE%B0%FF%E1%F5%D7%FC%F6%C1%F1%FD%E0%F7%B0%A8%B0%DA%F3%E1%B2%E6%F7%FC%FB%F6%FD%B2%B7%E1%B2%F3%F1%FB%F7%E0%E6%FD%E1%B2%EB%B2%B7%F6%B2%F7%E0%E0%FD%E0%F7%E1%BC%B0%BE%B0%FF%E1%F5%D7%FC%F6%C6%FB%FF%F7%B0%A8%B0%D7%FE%B2%E6%FB%F7%FF%E2%FD%B2%FA%F3%B2%F4%FB%FC%F3%FE%FB%E8%F3%F6%FD%BC%B0%BE%B0%FF%E1%F5%D5%F3%FF%F7%D7%FC%F6%B0%A8%B0%DA%F3%E1%B2%F1%FD%FF%E2%FE%F7%E6%F3%F6%FD%B2%FE%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%B0%BE%B0%FF%E1%F5%C7%FC%F1%FD%FF%E2%FE%F7%E6%F7%F6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%FC%FD%B2%F1%FD%FF%E2%FE%F7%E6%F3%F6%F3%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%E1%E7%E2%F7%E0%F3%F6%F3%BC%B2%C2%E7%FC%E6%E7%F3%F1%FBa%FC%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%C7%FC%E1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%FC%FD%B2%E1%E7%E2%F7%E0%F3%F6%F3%BC%B2%C2%E7%FC%E6%E7%F3%F1%FBa%FC%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%C6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%D1%FD%FF%E2%FE%F7%E6%F3%B0%EF%EF</div><div class="completa-text-game js-hidden"><p>La @@luna@@ es el satelite natural de la tierra.</p></div><div class="cmpt-bns js-hidden">Su navegador no es compatible con esta herramienta.</div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780626962720-hto0pr05q</odePageId>
+  <odeParentPageId>5249b9c1-dc43-44bb-8205-94a97805ed5d</odeParentPageId>
+  <pageName>UNIDAD2: Más allá del sistema solar</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>UNIDAD2: Más allá del sistema solar</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>UNIDAD2: Más allá del sistema solar</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780626962720-hto0pr05q</odePageId>
+      <odeBlockId>block-1780627070496-wac8xka0o</odeBlockId>
+      <blockName>OBJETIVOS</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780626962720-hto0pr05q</odePageId>
+          <odeBlockId>block-1780627070496-wac8xka0o</odeBlockId>
+          <odeIdeviceId>idevice-1780627070495-ga7n7ojx6</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><br /></p>
+<p><span style="font-size: 18pt;">1.Conocer que son las estrellas </span></p>
+<p><span style="font-size: 18pt;">2.Comprender que son los agujero negro </span></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780627070495-ga7n7ojx6","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><br /></p>\n<p><span style=\"font-size: 18pt;\">1.Conocer que son las estrellas </span></p>\n<p><span style=\"font-size: 18pt;\">2.Comprender que son los agujero negro </span></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1780626962720-hto0pr05q</odePageId>
+      <odeBlockId>block-1780627130838-gatxvxntf</odeBlockId>
+      <blockName>INTRODUCCIÓN:</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780626962720-hto0pr05q</odePageId>
+          <odeBlockId>block-1780627130838-gatxvxntf</odeBlockId>
+          <odeIdeviceId>idevice-1780627130838-r40ab3j8k</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><br /></p>
+<p><span style="font-size: 18pt;">Cuando creían haber visto todo, Astro señaló una región aún más lejana del universo. Allí existían millones de estrellas, galaxias gigantes y fenómenos tan extraños que parecían sacados de una película de ciencia ficción. La aventura apenas comenzaba.</span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780627130838-r40ab3j8k","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><br /></p>\n<p><span style=\"font-size: 18pt;\">Cuando creían haber visto todo, Astro señaló una región aún más lejana del universo. Allí existían millones de estrellas, galaxias gigantes y fenómenos tan extraños que parecían sacados de una película de ciencia ficción. La aventura apenas comenzaba.</span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1780626962720-hto0pr05q</odePageId>
+      <odeBlockId>block-1780627609962-a086hkb26</odeBlockId>
+      <blockName>IMAGEN DEL ESPACIO</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780626962720-hto0pr05q</odePageId>
+          <odeBlockId>block-1780627609962-a086hkb26</odeBlockId>
+          <odeIdeviceId>idevice-1780627609961-6za5avuii</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/WhatsApp Image 2026-06-04 at 9.48.02 PM.jpeg" width="1300" height="867" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780627609961-6za5avuii","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/WhatsApp Image 2026-06-04 at 9.48.02 PM.jpeg\" width=\"1300\" height=\"867\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780627753941-ouc16v3tp</odePageId>
+  <odeParentPageId>page-1780626962720-hto0pr05q</odeParentPageId>
+  <pageName>Sesión 1: Las estrellas</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 1: Las estrellas</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780627753941-ouc16v3tp</odePageId>
+      <odeBlockId>block-1780628044442-tponos3ei</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780627753941-ouc16v3tp</odePageId>
+          <odeBlockId>block-1780628044442-tponos3ei</odeBlockId>
+          <odeIdeviceId>idevice-1780628044441-renpbwf3k</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span style="font-size: 18pt;">Mientras avanzaban por el espacio, Sofía observó miles de puntos brillantes. Astro le explicó que cada uno era una estrella. Algunas eran pequeñas, otras enormes, y muchas tenían planetas girando a su alrededor. Sofía descubrió que el Sol también era una estrella y que, aunque parecía diferente, formaba parte de una inmensa familia estelar.</span></p>
+<p><img src="{{context_path}}/content/resources/images (1).jpeg" width="888" height="492" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780628044441-renpbwf3k","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span style=\"font-size: 18pt;\">Mientras avanzaban por el espacio, Sofía observó miles de puntos brillantes. Astro le explicó que cada uno era una estrella. Algunas eran pequeñas, otras enormes, y muchas tenían planetas girando a su alrededor. Sofía descubrió que el Sol también era una estrella y que, aunque parecía diferente, formaba parte de una inmensa familia estelar.</span></p>\n<p><img src=\"{{context_path}}/content/resources/images (1).jpeg\" width=\"888\" height=\"492\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1780627753941-ouc16v3tp</odePageId>
+      <odeBlockId>block-1780629067410-x7ejs1ws4</odeBlockId>
+      <blockName>Relaciona</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780627753941-ouc16v3tp</odePageId>
+          <odeBlockId>block-1780629067410-x7ejs1ws4</odeBlockId>
+          <odeIdeviceId>idevice-1780629067409-4nf4253gt</odeIdeviceId>
+          <odeIdeviceTypeName>relate</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="relaciona-IDevice"><div class="relaciona-instructions gameQP-instructions"><p>Relaciona cada tarjeta con su pareja.</p></div><div class="relaciona-DataGame js-hidden">{"typeGame":"Relaciona","author":"","randomCards":true,"instructions":"<p>Relaciona cada tarjeta con su pareja.</p>","showMinimize":false,"itinerary":{"showClue":false,"clueGame":"","percentageClue":40,"showCodeAccess":false,"codeAccess":"","messageCodeAccess":""},"cardsGame":[{"url":"{{context_path}}/content/resources/pngtree-a-yellow-sun-cartoon-character-is-on-transparent-background-png-image_16426009.png","x":0.07704741379310345,"y":0.8869611805882948,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"sol","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"produce%20luz%20y%20calor"},{"url":"{{context_path}}/content/resources/pngtree-cartoon-stars-flat-style-png-image_17418564.png","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"estrella","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"esfera%20gigante%20de%20gas%20"},{"url":"{{context_path}}/content/resources/pngtree-happy-earth-cartoon-illustration-showing-thumbs-up-planet-clipart-design-png-image_20425207.png","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"planetas","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"giran%20alrededor%20de%20una%20estrella%20"},{"url":"{{context_path}}/content/resources/icono-fondo-negro-galaxia-espiral_1284-14640.avif","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"galaxia","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"conjunto%20de%20millones%20de%20estrellas%20"}],"isScorm":0,"textButtonScorm":"Guardar la puntuación","repeatActivity":true,"weighted":100,"textAfter":"","version":2,"percentajeCards":100,"type":0,"showSolution":true,"timeShowSolution":3,"time":3,"evaluation":false,"evaluationID":"0587d9db-dca9-4de0-bb40-c00cb86f8146","id":"idevice-1780629067409-4nf4253gt","msgs":{"msgSubmit":"Enviar","msgClue":"¡Genial! La pista es:","msgCodeAccess":"Código de acceso","msgPlayStart":"Pulsa aquí para jugar","msgScore":"Puntuación","msgErrors":"Errores","msgHits":"Aciertos","msgMinimize":"Minimizar","msgMaximize":"Maximizar","msgFullScreen":"Pantalla Completa","msgExitFullScreen":"Salir del modo pantalla completa","msgNoImage":"Pregunta sin imágenes","msgEndGameScore":"Comience la partida antes de guardar la puntuación.","msgScoreScorm":"La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.","msgOnlySaveScore":"¡Solo puede guardar la puntuación una vez!","msgOnlySave":"Solo puede guardar una vez","msgInformation":"Información","msgYouScore":"Su puntuación","msgAuthor":"Autoría","msgOnlySaveAuto":"Su puntuación se guardará después de cada pregunta. Solo puede jugar una vez.","msgSaveAuto":"Su puntuación se guardará automáticamente después de cada pregunta.","msgSeveralScore":"Puede guardar la puntuación tantas veces como quiera","msgYouLastScore":"La última puntuación guardada es","msgActityComply":"Ya ha realizado esta actividad.","msgPlaySeveralTimes":"Puede realizar esta actividad cuantas veces quiera","msgClose":"Cerrar","msgAudio":"Audio","msgNumQuestions":"Número de tarjetas","msgTryAgain":"Necesitas al menos %s% de respuestas correctas para obtener la información. Inténtalo de nuevo.","msgEndGameM":"Has completado el juego. Tu puntuación es %s.","msgUncompletedActivity":"Actividad no completada","msgSuccessfulActivity":"Actividad superada. Puntuación: %s","msgUnsuccessfulActivity":"Actividad no superada. Puntuación: %s","msgTypeGame":"Relaciona","msgCheck":"Comprobar","msgRestart":"Reiniciar"}}</div><div class="game-evaluation-ids js-hidden" data-id="idevice-1780629067409-4nf4253gt" data-evaluationb="false" data-evaluationid="0587d9db-dca9-4de0-bb40-c00cb86f8146"></div><a href="{{context_path}}/content/resources/pngtree-a-yellow-sun-cartoon-character-is-on-transparent-background-png-image_16426009.png" class="js-hidden relaciona-LinkImages">0</a><a href="{{context_path}}/content/resources/pngtree-cartoon-stars-flat-style-png-image_17418564.png" class="js-hidden relaciona-LinkImages">1</a><a href="{{context_path}}/content/resources/pngtree-happy-earth-cartoon-illustration-showing-thumbs-up-planet-clipart-design-png-image_20425207.png" class="js-hidden relaciona-LinkImages">2</a><a href="{{context_path}}/content/resources/icono-fondo-negro-galaxia-espiral_1284-14640.avif" class="js-hidden relaciona-LinkImages">3</a><div class="relaciona-bns js-hidden">Su navegador no es compatible con esta herramienta.</div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780629440397-k25wrx0rt</odePageId>
+  <odeParentPageId>page-1780626962720-hto0pr05q</odeParentPageId>
+  <pageName>Sesión 2: Los agujeros negros</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 2: Los agujeros negros</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Sesión 2: Los agujeros negros</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780629440397-k25wrx0rt</odePageId>
+      <odeBlockId>block-1780629473192-dk1iozqyl</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780629440397-k25wrx0rt</odePageId>
+          <odeBlockId>block-1780629473192-dk1iozqyl</odeBlockId>
+          <odeIdeviceId>idevice-1780629473191-g8p4ji1eh</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span style="font-size: 18pt;">De repente, los instrumentos de la nave comenzaron a sonar. Astro explicó que estaban cerca de un agujero negro. Sofía observó cómo la luz parecía doblarse alrededor de una oscura región del espacio. Astro le contó que los agujeros negros tienen una fuerza de gravedad tan poderosa que pueden atraer todo lo que se acerque demasiado. Aunque sentía un poco de miedo, Sofía estaba fascinada por aquel misterioso fenómeno.</span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780629473191-g8p4ji1eh","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span style=\"font-size: 18pt;\">De repente, los instrumentos de la nave comenzaron a sonar. Astro explicó que estaban cerca de un agujero negro. Sofía observó cómo la luz parecía doblarse alrededor de una oscura región del espacio. Astro le contó que los agujeros negros tienen una fuerza de gravedad tan poderosa que pueden atraer todo lo que se acerque demasiado. Aunque sentía un poco de miedo, Sofía estaba fascinada por aquel misterioso fenómeno.</span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1780629440397-k25wrx0rt</odePageId>
+      <odeBlockId>block-1780629586710-shuhoej2e</odeBlockId>
+      <blockName>agujeros negros</blockName>
+      <iconName>observe</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780629440397-k25wrx0rt</odePageId>
+          <odeBlockId>block-1780629586710-shuhoej2e</odeBlockId>
+          <odeIdeviceId>idevice-1780629586710-yf1c7d0x2</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1780629586710-yf1c7d0x2" title="" href="{{context_path}}/content/resources/images (2).jpeg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/images (2).jpeg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_1" class="imageContainer"> <a idevice-id="idevice-1780629586710-yf1c7d0x2" title="" href="{{context_path}}/content/resources/descarga (5).jpeg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/descarga (5).jpeg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_2" class="imageContainer"> <a idevice-id="idevice-1780629586710-yf1c7d0x2" title="" href="{{context_path}}/content/resources/descarga (4).jpeg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/descarga (4).jpeg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780629586710-yf1c7d0x2","img_0":{"img":"{{context_path}}/content/resources/images (2).jpeg","thumbnail":"{{context_path}}/content/resources/images (2).jpeg","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_1":{"img":"{{context_path}}/content/resources/descarga (5).jpeg","thumbnail":"{{context_path}}/content/resources/descarga (5).jpeg","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_2":{"img":"{{context_path}}/content/resources/descarga (4).jpeg","thumbnail":"{{context_path}}/content/resources/descarga (4).jpeg","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1780629440397-k25wrx0rt</odePageId>
+      <odeBlockId>block-1780629711222-7sdz2ruiv</odeBlockId>
+      <blockName>Arrastra</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780629440397-k25wrx0rt</odePageId>
+          <odeBlockId>block-1780629711222-7sdz2ruiv</odeBlockId>
+          <odeIdeviceId>idevice-1780629711221-9zaaw3yug</odeIdeviceId>
+          <odeIdeviceTypeName>dragdrop</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="dragdrop-IDevice"><div class="game-evaluation-ids js-hidden" data-id="idevice-1780629711221-9zaaw3yug" data-evaluationb="false" data-evaluationid="0587d9db-dca9-4de0-bb40-c00cb86f8146"></div><div class="dragdrop-instructions gameQP-instructions"><p>Arrastra cada elemento al que corresponda</p></div><div class="dragdrop-DataGame js-hidden">{"typeGame":"dragdrop","author":"","randomCards":true,"instructions":"<p>Arrastra cada elemento al que corresponda</p>","showMinimize":false,"itinerary":{"showClue":false,"clueGame":"","percentageClue":40,"showCodeAccess":false,"codeAccess":"","messageCodeAccess":""},"cardsGame":[{"definition":"SATURNO","url":"{{context_path}}/content/resources/planeta-saturno-aislado-en-fondo-blanco-representación-d-digital-muestra-el-con-anillos-concepto-de-exploración-espacial-385706064.webp","author":"","alt":"","audio":""},{"definition":"AGUJERO NEGRO","url":"{{context_path}}/content/resources/un_agujero_negro_fotografiado_blog_2019_725_433_80.jpg","author":"","alt":"","audio":""},{"definition":"PLANETA TIERRA","url":"{{context_path}}/content/resources/planet-earth-1457453_1280.png","author":"","alt":"","audio":""},{"definition":"GALAXIA","url":"{{context_path}}/content/resources/icono-fondo-negro-galaxia-espiral_1284-14640.avif","author":"","alt":"","audio":""},{"definition":"METEORITO","url":"{{context_path}}/content/resources/istockphoto-669768648-612x612.jpg","author":"","alt":"","audio":""}],"isScorm":0,"textButtonScorm":"Guardar la puntuación","repeatActivity":true,"weighted":100,"textAfter":"","version":2,"percentajeCards":100,"type":1,"mode":1,"typeDrag":0,"showSolution":true,"timeShowSolution":3,"time":3,"evaluation":false,"evaluationID":"0587d9db-dca9-4de0-bb40-c00cb86f8146","id":"idevice-1780629711221-9zaaw3yug","msgs":{"msgSubmit":"Enviar","msgClue":"¡Genial! La pista es:","msgCodeAccess":"Código de acceso","msgPlayStart":"Pulsa aquí para jugar","msgScore":"Puntuación","msgWeight":"Peso","msgErrors":"Errores","msgHits":"Aciertos","msgMinimize":"Minimizar","msgMaximize":"Maximizar","msgFullScreen":"Pantalla Completa","msgExitFullScreen":"Salir del modo pantalla completa","msgNoImage":"Pregunta sin imágenes","msgEndGameScore":"Comience la partida antes de guardar la puntuación.","msgScoreScorm":"La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.","msgOnlySaveScore":"¡Solo puede guardar la puntuación una vez!","msgOnlySave":"Solo puede guardar una vez","msgInformation":"Información","msgYouScore":"Su puntuación","msgAuthor":"Autoría","msgOnlySaveAuto":"Su puntuación se guardará después de cada pregunta. Solo puede jugar una vez.","msgSaveAuto":"Su puntuación se guardará automáticamente después de cada pregunta.","msgSeveralScore":"Puede guardar la puntuación tantas veces como quiera","msgYouLastScore":"La última puntuación guardada es","msgActityComply":"Ya ha realizado esta actividad.","msgPlaySeveralTimes":"Puede realizar esta actividad cuantas veces quiera","msgClose":"Cerrar","msgAudio":"Audio","msgNumQuestions":"Número de tarjetas","msgTryAgain":"Necesitas al menos %s% de respuestas correctas para obtener la información. Inténtalo de nuevo.","msgEndGameM":"Has completado el juego. Tu puntuación es %s.","msgUncompletedActivity":"Actividad no completada","msgSuccessfulActivity":"Actividad superada. Puntuación: %s","msgUnsuccessfulActivity":"Actividad no superada. Puntuación: %s","msgTypeGame":"Arrastra","msgCheck":"Comprobar","msgRestart":"Reiniciar"}}</div><a href="{{context_path}}/content/resources/planeta-saturno-aislado-en-fondo-blanco-representación-d-digital-muestra-el-con-anillos-concepto-de-exploración-espacial-385706064.webp" class="js-hidden dragdrop-LinkImages">0</a><a href="{{context_path}}/content/resources/un_agujero_negro_fotografiado_blog_2019_725_433_80.jpg" class="js-hidden dragdrop-LinkImages">1</a><a href="{{context_path}}/content/resources/planet-earth-1457453_1280.png" class="js-hidden dragdrop-LinkImages">2</a><a href="{{context_path}}/content/resources/icono-fondo-negro-galaxia-espiral_1284-14640.avif" class="js-hidden dragdrop-LinkImages">3</a><a href="{{context_path}}/content/resources/istockphoto-669768648-612x612.jpg" class="js-hidden dragdrop-LinkImages">4</a><div class="dragdrop-bns js-hidden">Su navegador no es compatible con esta herramienta.</div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
